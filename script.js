@@ -1,3 +1,3 @@
 // JavaScript for any interactive functionality in the future
 console.log("Welcome to Growit - Agricultural Investment Platform!");
-alert("welcome! anan how far na")
+alert("welcome!")
